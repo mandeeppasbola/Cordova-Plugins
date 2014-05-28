@@ -1,7 +1,7 @@
 Location Service Status
 ===============
 
-Plugins for Cordova 2.9
+Plugin for Cordova 2.9
 
 This plugin check the status of location services on device.
 
