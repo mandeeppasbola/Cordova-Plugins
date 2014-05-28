@@ -3,7 +3,7 @@ Location Service Status
 
 Plugins for Cordova 2.9
 
-This plugin checks the status of the location service of the device.
+This plugin check the status of location services on device.
 
 In Cordova V2.9 there was a bug related to current location mentioned here : http://stackoverflow.com/questions/22778667/getcurrentlocation-is-working-on-cordova-phonegap-app-even-when-the-location-ser
 
